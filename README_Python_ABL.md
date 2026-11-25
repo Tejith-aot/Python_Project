@@ -6,10 +6,10 @@ Python Programming — Activity-Based Learning (ABL) assignment.
 
 Fill in these details before submitting:
 
-- **Name:** [Enter your full name]
-- **Roll Number:** [Enter your roll number]
-- **Branch:** [Enter your branch]
-- **Section:** [Enter your section]
+- **Name:** [L.Tejith]
+- **Roll Number:** [26000611]
+- **Branch:** [CSE]
+- **Section:** [3]
 - **Course:** Python Programming
 - **Institute:** Dr. RVR & NRI Institute of Technology
 
